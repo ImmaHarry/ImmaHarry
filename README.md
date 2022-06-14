@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Ogiroid (Private)**
 
-- 🌱 I’m currently learning **Electron.js & Node.js**
+- 🌱 I’m currently learning **Electron.js** and trying to master **Node.js**.
 
 - 📫 How to reach me **Twitter, @harrydadev | IG: @jesuisharrry**
 
