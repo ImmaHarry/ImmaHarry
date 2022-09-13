@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=immaharry&label=Views%20%F0%9F%91%80&color=ff0000&style=flat-square" alt="immaharry" /> </p>
 
-- 🔭 I’m currently working on **Ogiroid (Private)**
+- 🔭 I’m currently working on **Ogiroid**
 
 - 🌱 I’m currently learning **Electron.js** and trying to master **Node.js**.
 
