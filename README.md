@@ -11,7 +11,6 @@
 ![](https://github-readme-stats.vercel.app/api?username=ImmaHarry&theme=maroongold&hide_border=true&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ImmaHarry&theme=maroongold&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ImmaHarry&theme=maroongold&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
-
 ---
 <div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=31rnoktz2qe57ofarxjbndeb5pz4&cover_image=true&theme=default&show_offline=false&background_color=121212" /></div>  
 
