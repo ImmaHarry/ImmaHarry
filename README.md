@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭I’m currently working on: [Good Morning Tech](https://github.com/GoodMorninTech)<br>🌱 I’m currently learning: Data Analysis & Life<br>💬 Ask me about: Chemistry<br>⚡ Fun fact: I love listening to Taylor Swift & was a master at mathematics at one point of time
+🔭I’m currently working on: [Good Morning Tech](https://github.com/GoodMorninTech).<br>🌱 I’m currently learning: Data Analysis & Life<br>💬 Ask me about: Chemistry<br>⚡ Fun fact: I love listening to Taylor Swift & was a master at mathematics at one point of time
 
 
 ## 🌐 Socials:
