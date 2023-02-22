@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on **Good Morning Tech** as a front-end developer & UI/UX designer.<br>🌱 I’m currently learning **Rust** & understanding life.<br>💬 Ask me about chemistry! I love this subject.<br>⚡ Fun facts: I love listening to Taylor Swift & playing Minecraft!
+🔭 I’m currently working on **Good Morning Tech** as a front-end developer & UI/UX designer.<br>🌱 I’m currently learning **Rust** & understanding life.<br>💬 Ask me about chemistry! I love this subject 😩😩😩.<br>⚡ Fun facts: I love listening to Taylor Swift & playing Minecraft!
 
 
 ## 🌐 Socials:
