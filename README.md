@@ -9,7 +9,7 @@ My name is Harry. I am a student currently studying science & am an experienced 
 * 🌍  I'm based in India.
 * ✉️  You can contact me at [harrydadev@gmail.com](mailto:harrydadev@gmail.com)
 * 🚀  I'm currently working on [Good Morning Tech](http://goodmorningtech.news)
-* 🧠  I'm learning Rust
+* 🧠  I'm learning Next.js & React, I gave up on Rust 🗿
 * ⚡  I love studying chemistry & am trying to get better at mathematics.
 
 ### Skills
