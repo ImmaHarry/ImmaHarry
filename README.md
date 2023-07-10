@@ -4,7 +4,8 @@ Hi 👋 My name is HarryDaDev
 I am a Frontend Developer & UI/UX Designer
 ------------------------------------------
 
-My name is Harry. I am a student currently studying science & am an experienced frontend developer. I stepped my foot into the realm of programming in late 2018 with Game Development using Construct 2 and eventually pivoted towards Web Development. I now have experience with tools like Figma & AdobeXD that assist me with designing and prototyping. I have experience with libraries like TailwindCSS (and Bootstrap, although I hate it... beyond words), additionally, I also can work with React and have some experience with the backend with Python - I am still learning. I also started learning Rust because a friend suggested that I should.
+My name is Harry, and I am a student currently pursuing a degree in science. I have a solid background in frontend development and have gained valuable experience in the field. My journey into programming began in late 2018 with Game Development using Construct 2, and since then, I have shifted my focus to Web Development. I am proficient in utilizing design and prototyping tools such as Figma and AdobeXD to create visually appealing and functional interfaces. In terms of frontend libraries, I have extensive experience with TailwindCSS and prefer it over Bootstrap, which I find less favorable. Additionally, I have a good command of React and have also dabbled in backend development using Python, although I am still in the learning phase. In order to expand my skill set, I have recently started exploring Rust upon the suggestion of a friend.
+
 
 * 🌍  I'm based in India.
 * ✉️  You can contact me at [harrydadev@gmail.com](mailto:harrydadev@gmail.com)
