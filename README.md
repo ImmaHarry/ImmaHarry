@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Hello! My name is Harry. I am a frontend developer & a UI/UX designer. I am a student who is currently studying science, I love listening to music and watching shows. My favorite shows are Breaking Bad, Better Call Saul, Suits & Ozark currently. I listen to pop & metal most of the time (weird combo).<br><br>Right now, I am working on Gamefolio with a team of awesome developers. I have experience with JavaScript, TypeScript, HTML, CSS & Python mainly. I can work with React & Next.js and love using TailwindCSS!<br><br>To wrap things up, here is a fun fact about me. My favorite video game is Minecraft!</p>
+<p align="left">Hello! My name is Harry. I am a frontend developer & a UI/UX designer. I am a student who is currently studying Electronics & Communication Engineering at BITS Pilani, I love listening to music and watching shows. My favorite shows are Breaking Bad, Better Call Saul, Suits & Ozark currently. I listen to pop & metal most of the time (weird combo).<br><br>Right now, I am working on Gamefolio with a team of awesome developers. I have experience with JavaScript, TypeScript, HTML, CSS & Python mainly. I can work with React & Next.js and love using TailwindCSS!<br><br>To wrap things up, here is a fun fact about me: my favorite video game is Minecraft!</p>
 
 ###
 
