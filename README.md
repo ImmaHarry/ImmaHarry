@@ -42,17 +42,6 @@
 
 ###
 
-<div align="left">
-  <a href="https://twitter.com/harrydadev" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
-  </a>
-  <a href="https://discord.com/users/963860161976467498" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
-  </a>
-</div>
-
-###
-
 <img align="right" height="150" src="https://media1.tenor.com/m/bz4bg1gWPYMAAAAC/afham-saul-goodman.gif"  />
 
 ###
