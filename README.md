@@ -1,53 +1,27 @@
-<h2 align="left">My name is Harry and I'm a UI/UX Designer & a frontend developer.</h2>
+# 👋 Hey, I'm Harit Khera!
 
-###
+> aka Harry | harrydadev
 
-<p align="left">Hello! My name is Harry. I am a frontend developer & a UI/UX designer. I am a student who is currently studying Electronics & Communication Engineering at BITS Pilani, I love listening to music and watching shows. My favorite shows are Breaking Bad, Better Call Saul, Suits & Ozark currently. I listen to pop & metal most of the time (weird combo).<br><br>Right now, I am working on Gamefolio with a team of awesome developers. I have experience with JavaScript, TypeScript, HTML, CSS & Python mainly. I can work with React & Next.js and love using TailwindCSS!<br><br>To wrap things up, here is a fun fact about me: my favorite video game is Minecraft!</p>
+---
 
-###
+🎓 **Freshman @ BITS Pilani**  
+💻 **Full Stack Dev** (MERN, Next.js, Tailwind, Three.js, GSAP)  
+📱 **React Native + Expo**  
+🎨 **UI/UX Designer** (Figma, Photoshop, Illustrator)  
+🌍 **Hyderabad, India**  
+🗣️ English, Hindi, (a bit of) French  
+🚀 Building my own startup  
+🌞 Ex-Lead Frontend @ Good Morning Tech
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" height="30" alt="blender logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="30" alt="bootstrap logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="30" alt="canva logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30" alt="figma logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="30" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" height="30" alt="photoshop logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="30" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/electron/electron-original.svg" height="30" alt="electron logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" alt="github logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" height="30" alt="markdown logo"  />
-</div>
+---
 
-###
+## ⚡ Fun Stuff
 
-<img align="right" height="150" src="https://media1.tenor.com/m/bz4bg1gWPYMAAAAC/afham-saul-goodman.gif"  />
+- Squash addict
+- Netflix binger
+- Learning acoustic guitar 🎸
 
-###
+---
 
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ImmaHarry&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
+[Connect on LinkedIn](https://www.linkedin.com/in/harit-khera/)
 
-###
